@@ -111,3 +111,10 @@ img,video{
   .intro{
     font-size: 25px;
   }
+
+
+  .audio{
+    text-align: center;
+    background-color: #999;
+    padding: 20px;
+  }
